@@ -1,0 +1,6 @@
+! name: Crypto Articles
+! description: A rating of crypto sites that provide educational and informative articles on the topic.
+! public: true
+! author: jusrogers378
+
+$boost=1,site=webminers.dev
